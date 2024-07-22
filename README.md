@@ -1,5 +1,4 @@
 # Predicting-Claims
-# Exploratory Data Analysis and Predictive Modeling
 
 This project focuses on performing Exploratory Data Analysis (EDA) and building predictive models on a dataset.
 
@@ -75,7 +74,7 @@ Explains the prediction for a specific data point.
 
 ## Usage
 1. Ensure the dataset file `DATA.xlsx` is in the same directory as the Python script.
-2. Run the Python script: `python exploratory_data_analysis_and_predictive_modeling.py`
+2. Run the Python script
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open a new issue or submit a pull request.
